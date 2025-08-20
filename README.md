@@ -1,5 +1,12 @@
 # Image Recognition System
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F3B200?style=flat&logo=matplotlib&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 **Basic Image Recognition Model using Python**
 
 ---
@@ -14,7 +21,7 @@ It uses a **Kaggle dataset** to classify images and demonstrates understanding o
 
 - **Language:** Python  
 - **Platform:** Google Colab  
-- **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras (or PyTorch, if you used it)  
+- **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras (or PyTorch, if used)  
 - **Dataset:** Kaggle image dataset  
 
 ---
@@ -43,4 +50,5 @@ It uses a **Kaggle dataset** to classify images and demonstrates understanding o
 - Demonstrates ability to work with **image data** and **Kaggle datasets**  
 - Practical knowledge of **ML pipelines**: preprocessing → training → evaluation  
 - Hands-on experience with **Python ML libraries** and Colab environment  
-- Clean, readable code with modular workflow  
+- Clean, readable code with modular workflow
+
